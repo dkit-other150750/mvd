@@ -100,12 +100,13 @@
 .modal__person-name {
   font-size: 2.4em;
   font-weight: 500;
-  margin-bottom: 0;
+  margin-bottom: 0.8em;
 }
 
 @media (min-width: 750px) {
   .modal__person-name {
     grid-column: 1 / -1;
+    margin-bottom: 0;
   }
 }
 
