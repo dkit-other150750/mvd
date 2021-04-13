@@ -1,0 +1,22 @@
+@import './styles/header/logo.css';
+
+.header{
+  background-color: #ffffff;
+}
+
+@media (max-width: 539px) {
+  .header{
+    padding: 2.6em 2.6em;
+  }
+}
+
+@media (min-width: 540px) {
+  .header{
+    padding: 1.6em 2.6em;
+  }
+}
+
+.header__contaner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}

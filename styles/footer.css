@@ -1,0 +1,14 @@
+.footer {
+  padding: 1.6em 2.6em;
+}
+
+.footer__container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.footer__copy {
+  font-size: 1.5em;
+  line-height: 1.6;
+  color: #9c9c9c;
+}

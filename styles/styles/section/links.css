@@ -1,0 +1,13 @@
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5em;
+}
+
+.link {
+  display: block;
+  padding: 0.8em 1em;
+  font-size: 1.6em;
+  border: 0.1em solid #2958E5;
+  border-radius: 0.5em;
+}

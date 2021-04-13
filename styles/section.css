@@ -1,0 +1,26 @@
+@import './styles/section/card.css';
+@import './styles/section/links.css';
+@import './styles/section/form.css';
+
+.section {
+  padding: 3em 2.6em;
+}
+
+.section__container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.section__title {
+  font-size: 2.5em;
+  font-weight: 700;
+}
+
+.section__subtitle {
+  font-size: 2.0em;
+  font-weight: 600;
+}
+
+.section__text {
+  font-size: 1.7em;
+}
